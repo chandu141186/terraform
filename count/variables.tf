@@ -4,13 +4,13 @@ variable "instance_names" {
 }
 
 variable "ami_id" {
-  default = "ami-03265a0778a880afb"
+  default = "ami-0b4f379183e5706b9"
 }
 
 variable "zone_id" {
-  default = "Z104317737D96UJVA7NEF"
+  default = "Z06286322TWN251SZBYW9"
 }
 
 variable "domain_name" {
-  default = "daws76s.online"
+  default = "chandulearn.online"
 }
