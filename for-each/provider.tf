@@ -11,7 +11,8 @@ terraform {
     bucket = "chandudaws76-remote-state"
     key    = "foreach"
     region = "us-east-1"
-    dynamodb_table = "chandudaws76_locking"
+    dynamodb_table = "chandudaws76-locking"
+
   }
 }
 
